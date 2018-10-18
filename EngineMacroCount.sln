@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineMacroCount", "EngineMacroCount\EngineMacroCount.csproj", "{FA644D4D-4F45-4CFC-9F4A-F4C499A52EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA644D4D-4F45-4CFC-9F4A-F4C499A52EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA644D4D-4F45-4CFC-9F4A-F4C499A52EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA644D4D-4F45-4CFC-9F4A-F4C499A52EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA644D4D-4F45-4CFC-9F4A-F4C499A52EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
